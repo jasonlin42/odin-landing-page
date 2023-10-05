@@ -34,6 +34,16 @@ ul, a {
     gap: 20px;
 }
 
+.middle {
+    background-color: white;
+    color: gray;
+}
+
+.images img {
+    max-width: 40%;
+    border: solid blue;
+}
+
 .footer {
     background-color: #1F2937;
     color: white;
