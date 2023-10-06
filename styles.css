@@ -54,12 +54,14 @@ ul, a {
 
 .images {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 30px;
 }
 
 .img-text {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 150px;
 }
 
 .footer {
