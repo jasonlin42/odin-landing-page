@@ -39,9 +39,27 @@ ul, a {
     color: gray;
 }
 
+.middle-title {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+}
+
 .images img {
     max-width: 40%;
     border: solid blue;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-text {
+    display: flex;
+    justify-content: space-around;
 }
 
 .footer {
