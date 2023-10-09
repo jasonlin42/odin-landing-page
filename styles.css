@@ -2,8 +2,7 @@ body {
     font-family: sans-serif;
     background-color: #1F2937;
     color: white; 
-    padding-left: 50px;
-    padding-right: 50px;
+    margin: 0;
 }
 
 .header {
@@ -14,7 +13,7 @@ body {
     color: white;
     font-weight: 700;
     font-size: 24px;
-    margin-bottom: 40px;
+    padding: 20px 50px 30px 50px;
 }
 
 ul, a {
@@ -47,21 +46,17 @@ ul, a {
     color: #1F2937;
 }
 
-.images img {
-    max-width: 40%;
-    border: solid blue;
-}
-
-.images {
+.cards {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    align-items: baseline;
+    gap: 50px;
+    flex: 1;
 }
 
-.img-text {
+.text {
     display: flex;
     justify-content: center;
-    gap: 150px;
 }
 
 .footer {
