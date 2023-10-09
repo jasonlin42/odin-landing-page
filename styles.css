@@ -63,6 +63,12 @@ ul, a {
     flex: 1;
 }
 
+.info {
+    border: solid blue;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
 .text {
     display: flex;
     justify-content: center;
