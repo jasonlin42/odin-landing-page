@@ -93,6 +93,14 @@ ul, a {
     color: #1F2937;
 }
 
+.signature {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 20px;
+}
+
 
 .footer {
     background-color: #1F2937;
