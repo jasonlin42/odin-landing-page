@@ -97,6 +97,10 @@ ul, a {
     color: #1F2937;
 }
 
+.quote-text {
+    width: 40%;
+}
+
 .signature {
     display: flex;
     justify-content: flex-end;
