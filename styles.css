@@ -103,8 +103,9 @@ ul, a {
 }
 
 .signature {
-    display: flex;
-    justify-content: flex-end;
+    max-width: 300px;
+    margin: auto;
+    padding-left: 400px;
     font-weight: bold;
     font-style: normal;
     font-size: 20px;
