@@ -98,7 +98,8 @@ ul, a {
 }
 
 .quote-text {
-    width: 40%;
+    max-width: 600px;
+    margin: auto;
 }
 
 .signature {
