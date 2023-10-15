@@ -116,12 +116,17 @@ ul, a {
     display: flex;
     justify-content: center;
     background-color: white;
-    padding: 40px 50px
+    padding: 40px 50px;
 }
 
 .signup-card {
     background-color: #3882F6;
     padding: 20px 50px;
+    border-radius: 8px;
+}
+
+.signup-card button {
+    border-color: white;
 }
 
 .footer {
