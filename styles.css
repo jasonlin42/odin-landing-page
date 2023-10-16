@@ -83,7 +83,7 @@ ul, a {
 }
 
 .info img {
-    border: solid blue;
+    border: solid #3883F6;
     border-radius: 20px;
     overflow: hidden;
     width: 120px;
@@ -94,6 +94,8 @@ ul, a {
 .text {
     display: flex;
     justify-content: center;
+    max-width: 130px;
+    text-align: center;
 }
 
 .quote {
